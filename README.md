@@ -14,5 +14,5 @@
 - CSS3 — стилизация, анимации, адаптив
 - JavaScript
 
-## ⭐ Ссылка на сайт
-https://gulnaz-web.github.io/Gericht/
+## 🔗 Демо
+- Посмотрите сайт: [Gericht](https://gulnaz-web.github.io/Gericht/)
